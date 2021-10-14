@@ -2,10 +2,11 @@
 
 <p align="left"> 
 <strong>👋🏻 Hello, world! </strong> <br>
-  My name is Jhony Terra and I am a 👨🏻‍💻<strong>Fullstack Developer</strong>.<br>
+  I am a 👨🏻‍💻<strong>Fullstack Developer</strong>.<br>
   Currently studying Java and improving my NodeJS skills. Always trying not to be the best, 
   but always be remarkable. <br> Feel free to look at my repos. <br>
-  🖱️ Computer Science Barchelor Degree - Graduating.
+  🖱️ Computer Science Barchelor Degree - Graduating - Estácio de Sá University. <br>
+  📍 São Paulo, SP, Brazil.
 </p>
 
 <div align="left" heigth="5%" width="auto" style="background: rgb(204,192,11); background: linear-gradient(90deg, rgba(204,192,11,1) 0%, rgba(148,11,124,1) 28%, rgba(38,31,92,1) 69%, rgba(68,32,175,1) 100%);"/>

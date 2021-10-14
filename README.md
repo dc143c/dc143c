@@ -3,8 +3,8 @@
 <p align="left"> 
 <strong>👋🏻 Hello, world! </strong> <br>
   I am a 👨🏻‍💻<strong>Fullstack Developer</strong>.<br>
-  Currently studying Java and improving my NodeJS skills. Always trying not to be the best, 
-  but always be remarkable. <br> Feel free to look at my repos. <br>
+  Currently studying Java and improving my NodeJS skills. Not trying to be the best, 
+  but always trying be remarkable. <br> Feel free to look at my repos. <br>
   🖱️ Computer Science Barchelor Degree - Graduating - Estácio de Sá University. <br>
   📍 São Paulo, SP, Brazil.
 </p>

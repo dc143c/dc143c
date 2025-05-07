@@ -40,15 +40,15 @@
 
 <div align="left" heigth="5%" width="auto" style="background: rgb(204,192,11); background: linear-gradient(90deg, rgba(204,192,11,1) 0%, rgba(148,11,124,1) 28%, rgba(38,31,92,1) 69%, rgba(68,32,175,1) 100%);"/>
 <p align="left">
-    💼 I am currently looking for a job! <br>
+    💼 I am always looking for chat and ways to help people achieve their dream project! <br>
     💭 If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message:
 </p>
 
 <p align="left">
-  <a href="mailto:jhony.wt@gmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:v3nus.milo@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/jho-terra" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/v3nus-milo/" alt="Linkedin">
     <img height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 
@@ -56,7 +56,10 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/_konxl/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+
+  <a href="https://www.tesereft.com" alt="Website" target="_blank">
+  <img height="20" width="30" src="https://tesereft.com/images/logo.svg" />
 </p>  
 
 <div align="left" heigth="5%" width="auto" style="background: rgb(204,192,11); background: linear-gradient(90deg, rgba(204,192,11,1) 0%, rgba(148,11,124,1) 28%, rgba(38,31,92,1) 69%, rgba(68,32,175,1) 100%);"/>

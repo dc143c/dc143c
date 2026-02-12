@@ -30,7 +30,12 @@ jobs:
       - name: Generate SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GENERATOR_TOKEN }}
-        run: python -m generator.main
+        run: |
+            if [ -z "$GITHUB_TOKEN" ]; then
+              echo "ERRO: A secret GENERATOR_TOKEN veio vazia do GitHub!"
+              exit 1
+            fi
+            python -m generator.main
 
       - name: Commit and push if changed
         run: |
